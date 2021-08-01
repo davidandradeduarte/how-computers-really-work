@@ -1,0 +1,12 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11pt;
+  margin-left: 10px;
+  color: dimgray;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18pt;
+  font-weight: bold;
+}
